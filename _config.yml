@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Misun Lim
-  url:          https://misun0608.github.io
-  email:        chicmsl@gmail.com
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
