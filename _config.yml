@@ -1,16 +1,17 @@
 # Site settings
-title:          블로그임미다
+title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://misun0608.github.io"
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Misun Lim
-  url:          https://misun0608.github.io
-  email:        chicmsl@gmail.com
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
