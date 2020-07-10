@@ -3,7 +3,7 @@ title:          블로그임미다
 description:    "이것저것 기록하는 블로그"
 url:            "https://misun0608.github.io"
 
-category_list: [ TIL, Book, Journal ]
+category_list: [ TIL, Coding_test, Journal ]
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
