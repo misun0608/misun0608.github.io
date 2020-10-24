@@ -1,6 +1,6 @@
 * {
   @include box-sizing;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 html,
@@ -11,7 +11,8 @@ body {
 }
 
 html {
-  font-family: $serif-primary;
+  // font-family: $serif-primary;
+  font-family: "나눔고딕";
   font-size: 14px;
   overflow-y: scroll;
 
