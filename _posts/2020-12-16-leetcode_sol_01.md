@@ -22,28 +22,25 @@ Only one valid answer exists.
 ```
 
 ### 입출력 예
-##### Example 1:
+#### Example 1:
 ```
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Output: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
-<br />
 
-##### Example 2:
+#### Example 2:
 ```
 Input: nums = [3,2,4], target = 6
 Output: [1,2]
 ```
-<br />
 
-##### Example 3:
+#### Example 3:
 ```
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 <br />
-
 ---
 영어로 된 코딩문제는 처음풀어보는거라 쉬운문제를 선택했다.<br />
 무식하게 for문으로 찾아보는 방법으로 풀었는데 생각보다 느리진 않았다.<br />
