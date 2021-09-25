@@ -1,28 +1,28 @@
 # Site settings
-title:          블로그임미다
-description:    "이것저것 기록하는 블로그"
-url:            "https://misun0608.github.io"
+title: 개발자임미다
+description: "이것저것 기록하는 블로그"
+url: "https://misun0608.github.io"
 
-category_list: [ TIL, Coding_test, Journal ]
+category_list: [TIL, Coding_test, Journal]
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Misun Lim
-  url:          "https://misun0608.github.io"
-  email:        chicmsl@gmail.com
+  name: Misun Lim
+  url: "https://misun0608.github.io"
+  email: chicmsl@gmail.com
 
 # Build settings
-markdown:       kramdown
+markdown: kramdown
 include:
   - _pages
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        compressed
+  sass_dir: _sass
+  style: compressed
 
 # Gems
 plugins:
@@ -31,16 +31,15 @@ plugins:
   - jekyll-seo-tag
   # - jemoji #Uncomment this to allow emoji in your post
 
-
-theme:      tale
+theme: tale
 
 # Permalinks
 
-permalink:  /:year-:month-:day/:title
-paginate:   5
+permalink: /:year-:month-:day/:title
+paginate: 5
 
 # Excludes
-exclude: [ vendor, Gemfile, Gemfile.lock, tale.gemspec ]
+exclude: [vendor, Gemfile, Gemfile.lock, tale.gemspec]
 
 # Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+disqus: jekyll-tale
